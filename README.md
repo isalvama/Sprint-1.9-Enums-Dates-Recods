@@ -1,4 +1,4 @@
-# Tasca S1: Enums, Dates & Records
+# Sprint 1.9: Enums, Dates & Records
 
 ## Description
 
